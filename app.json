@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-hook",
+    "slug": "rn-hook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-hook"
+}
