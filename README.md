@@ -1,6 +1,6 @@
 # react-native-modern-redux
 
-<p>React Native demo app, state management with use of Modern Redux Toolkit, slices, reducers, adapter, entities.
+<p>React Native demo app, state management with use of Modern Redux Toolkit, slices, reducers, adapter and entities.
 Also top bar navigation and toast messaging.
 <p>
 
